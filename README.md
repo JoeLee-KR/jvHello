@@ -2,7 +2,7 @@
 - JDK environments:
   - /Library/Java/JavaVirtualMachines
     - zulu-21
-    - zulu-11
+    - zulu-11 / 17
     - zulu-8
 
 ### Books

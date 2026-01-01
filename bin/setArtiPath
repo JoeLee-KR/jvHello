@@ -2,6 +2,6 @@
 # if u want to run at terminal as standalone app-start,
 # u 1st set ENV, MUST USE source command as source ./setClasspath, or . ./setClasspath
 export CLASSPATH="\
-/Users/doogie/DevOps/jvHello/out/artifacts/YOUR_ARTIFACTS/*:\
+/Users/doogie/DevOps/jvHello/out/artifacts/jvHello_jar_MF/*:\
 /Users/doogie/DevOps/jvHello/lib/*\
 "
